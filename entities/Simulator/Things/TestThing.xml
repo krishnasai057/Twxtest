@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-08-09T09:26:51.268Z"
+         lastModifiedDate="2020-08-09T09:44:00.543Z"
          name="TestThing"
          projectName="Simulator"
          published="false"
@@ -91,6 +91,7 @@
                                         SecondEntry.timestamp = new Date(); // DATETIME [Primary Key]
                                         result.AddRow(FirstEntry);
                                         result.AddRow(SecondEntry);
+                                        //Adding comment to check in target
                                         ]]>
                                         </code>
                                     </Row>
